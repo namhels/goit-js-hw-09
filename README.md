@@ -62,5 +62,5 @@ npm run dev
 "homepage": "https://namhels.github.io/goit-js-hw-09",
 
  git add .
-git commit -m "fix bug"
+git commit -m "finish HomeWork-09"
 git push -->
